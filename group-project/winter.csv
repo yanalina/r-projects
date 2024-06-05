@@ -1,0 +1,410 @@
+﻿year,host_country,host_city,country_name,gold,silver,bronze,total_medals
+1924,France,Chamonix,United States,1,2,1,4
+1924,France,Chamonix,Great Britain,1,1,2,4
+1924,France,Chamonix,Austria,2,1,0,3
+1924,France,Chamonix,Norway,4,7,6,17
+1924,France,Chamonix,Finland,4,4,3,11
+1924,France,Chamonix,France,0,0,3,3
+1924,France,Chamonix,Belgium,0,0,1,1
+1924,France,Chamonix,Switzerland,2,0,1,3
+1924,France,Chamonix,Canada,1,0,0,1
+1924,France,Chamonix,Sweden,1,1,0,2
+1928,Switzerland,St. Moritz,Sweden,2,2,1,5
+1928,Switzerland,St. Moritz,Finland,2,1,1,4
+1928,Switzerland,St. Moritz,Canada,1,0,0,1
+1928,Switzerland,St. Moritz,Czechoslovakia,0,0,1,1
+1928,Switzerland,St. Moritz,Norway,6,4,5,15
+1928,Switzerland,St. Moritz,United States,2,2,2,6
+1928,Switzerland,St. Moritz,Great Britain,0,0,1,1
+1928,Switzerland,St. Moritz,Switzerland,0,0,1,1
+1928,Switzerland,St. Moritz,Belgium,0,0,1,1
+1928,Switzerland,St. Moritz,France,1,0,0,1
+1928,Switzerland,St. Moritz,Austria,0,3,1,4
+1928,Switzerland,St. Moritz,Germany,0,0,1,1
+1932,United States,Lake Placid,Sweden,1,2,0,3
+1932,United States,Lake Placid,Canada,1,1,5,7
+1932,United States,Lake Placid,United States,6,4,2,12
+1932,United States,Lake Placid,Norway,3,4,3,10
+1932,United States,Lake Placid,Finland,1,1,1,3
+1932,United States,Lake Placid,Germany,0,0,2,2
+1932,United States,Lake Placid,Hungary,0,0,1,1
+1932,United States,Lake Placid,Switzerland,0,1,0,1
+1932,United States,Lake Placid,Austria,1,1,0,2
+1932,United States,Lake Placid,France,1,0,0,1
+1936,Germany,Garmisch-Partenkirchen,Finland,1,2,3,6
+1936,Germany,Garmisch-Partenkirchen,Switzerland,1,2,0,3
+1936,Germany,Garmisch-Partenkirchen,Sweden,2,2,3,7
+1936,Germany,Garmisch-Partenkirchen,Norway,7,5,3,15
+1936,Germany,Garmisch-Partenkirchen,Germany,3,3,0,6
+1936,Germany,Garmisch-Partenkirchen,Canada,0,1,0,1
+1936,Germany,Garmisch-Partenkirchen,France,0,0,1,1
+1936,Germany,Garmisch-Partenkirchen,Hungary,0,0,1,1
+1936,Germany,Garmisch-Partenkirchen,Austria,1,1,2,4
+1936,Germany,Garmisch-Partenkirchen,Great Britain,1,1,1,3
+1936,Germany,Garmisch-Partenkirchen,United States,1,0,3,4
+1948,Switzerland,St. Moritz,France,2,1,2,5
+1948,Switzerland,St. Moritz,Canada,2,0,1,3
+1948,Switzerland,St. Moritz,Sweden,4,3,3,10
+1948,Switzerland,St. Moritz,Switzerland,3,4,3,10
+1948,Switzerland,St. Moritz,United States,3,4,2,9
+1948,Switzerland,St. Moritz,Austria,1,3,4,8
+1948,Switzerland,St. Moritz,Hungary,0,1,0,1
+1948,Switzerland,St. Moritz,Great Britain,0,0,2,2
+1948,Switzerland,St. Moritz,Czechoslovakia,0,1,0,1
+1948,Switzerland,St. Moritz,Finland,1,3,2,6
+1948,Switzerland,St. Moritz,Italy,1,0,0,1
+1948,Switzerland,St. Moritz,Norway,4,3,3,10
+1948,Switzerland,St. Moritz,Belgium,1,1,0,2
+1952,Norway,Oslo,Germany,3,2,2,7
+1952,Norway,Oslo,Austria,2,4,2,8
+1952,Norway,Oslo,Italy,1,0,1,2
+1952,Norway,Oslo,Norway,7,3,6,16
+1952,Norway,Oslo,United States,4,6,1,11
+1952,Norway,Oslo,Finland,3,4,2,9
+1952,Norway,Oslo,Canada,1,0,1,2
+1952,Norway,Oslo,Switzerland,0,0,2,2
+1952,Norway,Oslo,France,0,0,1,1
+1952,Norway,Oslo,Hungary,0,0,1,1
+1952,Norway,Oslo,Great Britain,1,0,0,1
+1952,Norway,Oslo,Netherlands,0,3,0,3
+1952,Norway,Oslo,Sweden,0,0,4,4
+1956,Italy,Cortina d'Ampezzo,Switzerland,3,2,1,6
+1956,Italy,Cortina d'Ampezzo,Sweden,2,4,4,10
+1956,Italy,Cortina d'Ampezzo,United States,2,3,2,7
+1956,Italy,Cortina d'Ampezzo,Soviet Union,7,3,6,16
+1956,Italy,Cortina d'Ampezzo,Austria,4,3,4,11
+1956,Italy,Cortina d'Ampezzo,Finland,3,3,1,7
+1956,Italy,Cortina d'Ampezzo,Japan,0,1,0,1
+1956,Italy,Cortina d'Ampezzo,Hungary,0,0,1,1
+1956,Italy,Cortina d'Ampezzo,Poland,0,0,1,1
+1956,Italy,Cortina d'Ampezzo,Canada,0,1,2,3
+1956,Italy,Cortina d'Ampezzo,Norway,2,1,1,4
+1956,Italy,Cortina d'Ampezzo,Italy,1,2,0,3
+1956,Italy,Cortina d'Ampezzo,Germany,1,0,1,2
+1960,United States,Squaw Valley,Finland,2,3,3,8
+1960,United States,Squaw Valley,Norway,3,3,0,6
+1960,United States,Squaw Valley,Sweden,3,2,2,7
+1960,United States,Squaw Valley,Soviet Union,7,5,9,21
+1960,United States,Squaw Valley,France,1,0,2,3
+1960,United States,Squaw Valley,United States,3,4,3,10
+1960,United States,Squaw Valley,Germany,4,3,1,8
+1960,United States,Squaw Valley,Poland,0,1,1,2
+1960,United States,Squaw Valley,Czechoslovakia,0,1,0,1
+1960,United States,Squaw Valley,Italy,0,0,1,1
+1960,United States,Squaw Valley,Netherlands,0,1,1,2
+1960,United States,Squaw Valley,Canada,2,1,1,4
+1960,United States,Squaw Valley,Switzerland,2,0,0,2
+1960,United States,Squaw Valley,Austria,1,2,3,6
+1964,Austria,Innsbruck,Germany,3,3,3,9
+1964,Austria,Innsbruck,Sweden,3,3,1,7
+1964,Austria,Innsbruck,United States,1,2,4,7
+1964,Austria,Innsbruck,France,3,4,0,7
+1964,Austria,Innsbruck,Austria,4,5,3,12
+1964,Austria,Innsbruck,Norway,3,6,6,15
+1964,Austria,Innsbruck,Finland,3,4,3,10
+1964,Austria,Innsbruck,North Korea,0,1,0,1
+1964,Austria,Innsbruck,Czechoslovakia,0,0,1,1
+1964,Austria,Innsbruck,Soviet Union,11,8,6,25
+1964,Austria,Innsbruck,Italy,0,1,3,4
+1964,Austria,Innsbruck,Canada,1,1,1,3
+1964,Austria,Innsbruck,Netherlands,1,1,0,2
+1964,Austria,Innsbruck,Great Britain,1,0,0,1
+1968,France,Grenoble,Italy,4,0,0,4
+1968,France,Grenoble,Austria,3,4,4,11
+1968,France,Grenoble,Netherlands,3,3,3,9
+1968,France,Grenoble,France,4,3,2,9
+1968,France,Grenoble,Romania,0,0,1,1
+1968,France,Grenoble,Norway,6,6,2,14
+1968,France,Grenoble,Soviet Union,5,5,3,13
+1968,France,Grenoble,Sweden,3,2,3,8
+1968,France,Grenoble,Czechoslovakia,1,2,1,4
+1968,France,Grenoble,Canada,1,1,1,3
+1968,France,Grenoble,Switzerland,0,2,4,6
+1968,France,Grenoble,Finland,1,2,2,5
+1968,France,Grenoble,West Germany,2,2,3,7
+1968,France,Grenoble,United States,1,5,1,7
+1968,France,Grenoble,East Germany,1,2,2,5
+1972,Japan,Sapporo,Norway,2,5,5,12
+1972,Japan,Sapporo,United States,3,2,3,8
+1972,Japan,Sapporo,Austria,1,2,2,5
+1972,Japan,Sapporo,Italy,2,2,1,5
+1972,Japan,Sapporo,East Germany,4,3,7,14
+1972,Japan,Sapporo,Soviet Union,8,5,3,16
+1972,Japan,Sapporo,Netherlands,4,3,2,9
+1972,Japan,Sapporo,Switzerland,4,3,3,10
+1972,Japan,Sapporo,Sweden,1,1,2,4
+1972,Japan,Sapporo,France,0,1,2,3
+1972,Japan,Sapporo,Finland,0,4,1,5
+1972,Japan,Sapporo,West Germany,3,1,1,5
+1972,Japan,Sapporo,Canada,0,1,0,1
+1972,Japan,Sapporo,Spain,1,0,0,1
+1972,Japan,Sapporo,Czechoslovakia,1,0,2,3
+1972,Japan,Sapporo,Poland,1,0,0,1
+1972,Japan,Sapporo,Japan,1,1,1,3
+1976,Austria,Innsbruck,Austria,2,2,2,6
+1976,Austria,Innsbruck,Finland,2,4,1,7
+1976,Austria,Innsbruck,Netherlands,1,2,3,6
+1976,Austria,Innsbruck,Switzerland,1,3,1,5
+1976,Austria,Innsbruck,East Germany,7,5,7,19
+1976,Austria,Innsbruck,Soviet Union,13,6,8,27
+1976,Austria,Innsbruck,Norway,3,3,1,7
+1976,Austria,Innsbruck,United States,3,3,4,10
+1976,Austria,Innsbruck,Sweden,0,0,2,2
+1976,Austria,Innsbruck,Liechtenstein,0,0,2,2
+1976,Austria,Innsbruck,West Germany,2,5,3,10
+1976,Austria,Innsbruck,France,0,0,1,1
+1976,Austria,Innsbruck,Great Britain,1,0,0,1
+1976,Austria,Innsbruck,Canada,1,1,1,3
+1976,Austria,Innsbruck,Italy,1,2,1,4
+1976,Austria,Innsbruck,Czechoslovakia,0,1,0,1
+1980,United States,Lake Placid,Finland,1,5,3,9
+1980,United States,Lake Placid,Liechtenstein,2,2,0,4
+1980,United States,Lake Placid,Norway,1,3,6,10
+1980,United States,Lake Placid,Switzerland,1,1,3,5
+1980,United States,Lake Placid,Netherlands,1,2,1,4
+1980,United States,Lake Placid,East Germany,9,7,7,23
+1980,United States,Lake Placid,Soviet Union,10,6,6,22
+1980,United States,Lake Placid,United States,6,4,2,12
+1980,United States,Lake Placid,Sweden,3,0,1,4
+1980,United States,Lake Placid,Austria,3,2,2,7
+1980,United States,Lake Placid,Bulgaria,0,0,1,1
+1980,United States,Lake Placid,Japan,0,1,0,1
+1980,United States,Lake Placid,Czechoslovakia,0,0,1,1
+1980,United States,Lake Placid,Hungary,0,1,0,1
+1980,United States,Lake Placid,France,0,0,1,1
+1980,United States,Lake Placid,Italy,0,2,0,2
+1980,United States,Lake Placid,Great Britain,1,0,0,1
+1980,United States,Lake Placid,West Germany,0,2,3,5
+1980,United States,Lake Placid,Canada,0,1,1,2
+1984,Yugoslavia,Sarajevo,Switzerland,2,2,1,5
+1984,Yugoslavia,Sarajevo,Sweden,4,2,2,8
+1984,Yugoslavia,Sarajevo,West Germany,2,1,1,4
+1984,Yugoslavia,Sarajevo,Canada,2,1,1,4
+1984,Yugoslavia,Sarajevo,Soviet Union,6,10,9,25
+1984,Yugoslavia,Sarajevo,East Germany,9,9,6,24
+1984,Yugoslavia,Sarajevo,Finland,4,3,6,13
+1984,Yugoslavia,Sarajevo,United States,4,4,0,8
+1984,Yugoslavia,Sarajevo,Italy,2,0,0,2
+1984,Yugoslavia,Sarajevo,Liechtenstein,0,0,2,2
+1984,Yugoslavia,Sarajevo,Yugoslavia,0,1,0,1
+1984,Yugoslavia,Sarajevo,Norway,3,2,4,9
+1984,Yugoslavia,Sarajevo,Austria,0,0,1,1
+1984,Yugoslavia,Sarajevo,Japan,0,1,0,1
+1984,Yugoslavia,Sarajevo,Czechoslovakia,0,2,4,6
+1984,Yugoslavia,Sarajevo,France,0,1,2,3
+1984,Yugoslavia,Sarajevo,Great Britain,1,0,0,1
+1988,Canada,Calgary,Netherlands,3,2,2,7
+1988,Canada,Calgary,Austria,3,5,2,10
+1988,Canada,Calgary,United States,2,1,3,6
+1988,Canada,Calgary,West Germany,2,4,2,8
+1988,Canada,Calgary,Sweden,4,0,2,6
+1988,Canada,Calgary,Soviet Union,11,9,9,29
+1988,Canada,Calgary,East Germany,9,10,6,25
+1988,Canada,Calgary,Finland,4,1,2,7
+1988,Canada,Calgary,Switzerland,5,5,5,15
+1988,Canada,Calgary,Japan,0,0,1,1
+1988,Canada,Calgary,Yugoslavia,0,2,1,3
+1988,Canada,Calgary,Liechtenstein,0,0,1,1
+1988,Canada,Calgary,Czechoslovakia,0,1,2,3
+1988,Canada,Calgary,Italy,2,1,2,5
+1988,Canada,Calgary,France,1,0,1,2
+1988,Canada,Calgary,Norway,0,3,2,5
+1988,Canada,Calgary,Canada,0,2,3,5
+1992,France,Albertville,Italy,4,6,4,14
+1992,France,Albertville,France,3,5,1,9
+1992,France,Albertville,South Korea,2,1,1,4
+1992,France,Albertville,Canada,2,3,2,7
+1992,France,Albertville,Finland,3,1,3,7
+1992,France,Albertville,Unified Team,9,6,8,23
+1992,France,Albertville,Germany,10,10,6,26
+1992,France,Albertville,Norway,9,6,5,20
+1992,France,Albertville,United States,5,4,2,11
+1992,France,Albertville,Austria,6,7,8,21
+1992,France,Albertville,New Zealand,0,1,0,1
+1992,France,Albertville,Luxembourg,0,2,0,2
+1992,France,Albertville,Czechoslovakia,0,0,3,3
+1992,France,Albertville,Spain,0,0,1,1
+1992,France,Albertville,North Korea,0,0,1,1
+1992,France,Albertville,Netherlands,1,1,2,4
+1992,France,Albertville,Japan,1,2,4,7
+1992,France,Albertville,Sweden,1,0,3,4
+1992,France,Albertville,China,0,3,0,3
+1992,France,Albertville,Switzerland,1,0,2,3
+1994,Norway,Lillehammer,China,0,1,2,3
+1994,Norway,Lillehammer,Canada,3,6,4,13
+1994,Norway,Lillehammer,South Korea,4,1,1,6
+1994,Norway,Lillehammer,Switzerland,3,4,2,9
+1994,Norway,Lillehammer,Sweden,2,1,0,3
+1994,Norway,Lillehammer,Austria,2,3,4,9
+1994,Norway,Lillehammer,Norway,10,11,5,26
+1994,Norway,Lillehammer,Russia,11,8,4,23
+1994,Norway,Lillehammer,Germany,9,7,8,24
+1994,Norway,Lillehammer,United States,6,5,2,13
+1994,Norway,Lillehammer,Italy,7,5,8,20
+1994,Norway,Lillehammer,Japan,1,2,2,5
+1994,Norway,Lillehammer,Netherlands,0,1,3,4
+1994,Norway,Lillehammer,France,0,1,4,5
+1994,Norway,Lillehammer,Slovenia,0,0,3,3
+1994,Norway,Lillehammer,Australia,0,0,1,1
+1994,Norway,Lillehammer,Great Britain,0,0,2,2
+1994,Norway,Lillehammer,Ukraine,1,0,1,2
+1994,Norway,Lillehammer,Kazakhstan,1,2,0,3
+1994,Norway,Lillehammer,Uzbekistan,1,0,0,1
+1994,Norway,Lillehammer,Finland,0,1,5,6
+1994,Norway,Lillehammer,Belarus,0,2,0,2
+1998,Japan,Nagano,Ukraine,0,1,0,1
+1998,Japan,Nagano,South Korea,3,1,2,6
+1998,Japan,Nagano,Austria,3,5,9,17
+1998,Japan,Nagano,Japan,5,1,4,10
+1998,Japan,Nagano,Switzerland,2,2,3,7
+1998,Japan,Nagano,Finland,2,4,6,12
+1998,Japan,Nagano,Italy,2,6,2,10
+1998,Japan,Nagano,Russia,9,6,3,18
+1998,Japan,Nagano,Norway,10,10,5,25
+1998,Japan,Nagano,Germany,12,9,8,29
+1998,Japan,Nagano,Netherlands,5,4,2,11
+1998,Japan,Nagano,United States,6,3,4,13
+1998,Japan,Nagano,Canada,6,5,4,15
+1998,Japan,Nagano,Belgium,0,0,1,1
+1998,Japan,Nagano,Australia,0,0,1,1
+1998,Japan,Nagano,China,0,6,2,8
+1998,Japan,Nagano,Great Britain,0,0,1,1
+1998,Japan,Nagano,Denmark,0,1,0,1
+1998,Japan,Nagano,Sweden,0,2,1,3
+1998,Japan,Nagano,Kazakhstan,0,0,2,2
+1998,Japan,Nagano,Belarus,0,0,2,2
+1998,Japan,Nagano,Czech Republic,1,1,1,3
+1998,Japan,Nagano,France,2,1,5,8
+1998,Japan,Nagano,Bulgaria,1,0,0,1
+2002,United States,Salt Lake City,Belarus,0,0,1,1
+2002,United States,Salt Lake City,Slovenia,0,0,1,1
+2002,United States,Salt Lake City,Poland,0,1,1,2
+2002,United States,Salt Lake City,Bulgaria,0,1,2,3
+2002,United States,Salt Lake City,Japan,0,1,1,2
+2002,United States,Salt Lake City,Norway,13,5,7,25
+2002,United States,Salt Lake City,Australia,2,0,0,2
+2002,United States,Salt Lake City,Germany,12,16,8,36
+2002,United States,Salt Lake City,Canada,7,3,7,17
+2002,United States,Salt Lake City,United States,10,13,11,34
+2002,United States,Salt Lake City,Sweden,0,2,5,7
+2002,United States,Salt Lake City,Netherlands,3,5,0,8
+2002,United States,Salt Lake City,Austria,3,4,10,17
+2002,United States,Salt Lake City,Switzerland,3,2,6,11
+2002,United States,Salt Lake City,France,4,5,2,11
+2002,United States,Salt Lake City,Italy,4,4,5,13
+2002,United States,Salt Lake City,Finland,4,2,1,7
+2002,United States,Salt Lake City,Croatia,3,1,0,4
+2002,United States,Salt Lake City,Czech Republic,1,2,0,3
+2002,United States,Salt Lake City,Estonia,1,1,1,3
+2002,United States,Salt Lake City,Great Britain,1,0,1,2
+2002,United States,Salt Lake City,China,2,2,4,8
+2002,United States,Salt Lake City,South Korea,2,2,0,4
+2002,United States,Salt Lake City,Russia,5,4,4,13
+2006,Italy,Turin,Netherlands,3,2,4,9
+2006,Italy,Turin,France,3,2,4,9
+2006,Italy,Turin,Italy,5,0,6,11
+2006,Italy,Turin,China,2,4,5,11
+2006,Italy,Turin,Norway,2,8,9,19
+2006,Italy,Turin,Estonia,3,0,0,3
+2006,Italy,Turin,Switzerland,5,4,5,14
+2006,Italy,Turin,Russia,8,6,8,22
+2006,Italy,Turin,Austria,9,7,7,23
+2006,Italy,Turin,Germany,11,12,6,29
+2006,Italy,Turin,South Korea,6,3,2,11
+2006,Italy,Turin,Sweden,7,2,5,14
+2006,Italy,Turin,Canada,7,10,7,24
+2006,Italy,Turin,Slovakia,0,1,0,1
+2006,Italy,Turin,Great Britain,0,1,0,1
+2006,Italy,Turin,Bulgaria,0,1,0,1
+2006,Italy,Turin,United States,9,9,7,25
+2006,Italy,Turin,Latvia,0,0,1,1
+2006,Italy,Turin,Ukraine,0,0,2,2
+2006,Italy,Turin,Belarus,0,1,0,1
+2006,Italy,Turin,Australia,1,0,1,2
+2006,Italy,Turin,Croatia,1,2,0,3
+2006,Italy,Turin,Czech Republic,1,2,1,4
+2006,Italy,Turin,Poland,0,1,1,2
+2006,Italy,Turin,Finland,0,6,3,9
+2006,Italy,Turin,Japan,1,0,0,1
+2010,Canada,Vancouver,Poland,1,3,2,6
+2010,Canada,Vancouver,Austria,4,6,6,16
+2010,Canada,Vancouver,Sweden,5,2,4,11
+2010,Canada,Vancouver,China,5,2,4,11
+2010,Canada,Vancouver,France,2,3,6,11
+2010,Canada,Vancouver,Russia,3,5,7,15
+2010,Canada,Vancouver,Netherlands,4,1,3,8
+2010,Canada,Vancouver,United States,9,15,13,37
+2010,Canada,Vancouver,Germany,10,13,7,30
+2010,Canada,Vancouver,Canada,14,7,5,26
+2010,Canada,Vancouver,Switzerland,6,0,3,9
+2010,Canada,Vancouver,South Korea,6,6,2,14
+2010,Canada,Vancouver,Norway,9,8,6,23
+2010,Canada,Vancouver,Australia,2,1,0,3
+2010,Canada,Vancouver,Finland,0,1,4,5
+2010,Canada,Vancouver,Latvia,0,2,0,2
+2010,Canada,Vancouver,Slovenia,0,2,1,3
+2010,Canada,Vancouver,Italy,1,1,3,5
+2010,Canada,Vancouver,Kazakhstan,0,1,0,1
+2010,Canada,Vancouver,Estonia,0,1,0,1
+2010,Canada,Vancouver,Slovakia,1,1,1,3
+2010,Canada,Vancouver,Belarus,1,1,1,3
+2010,Canada,Vancouver,Czech Republic,2,0,4,6
+2010,Canada,Vancouver,Croatia,0,2,1,3
+2010,Canada,Vancouver,Japan,0,3,2,5
+2010,Canada,Vancouver,Great Britain,1,0,0,1
+2014,Russia,Sochi,Canada,10,10,5,25
+2014,Russia,Sochi,Latvia,1,1,3,5
+2014,Russia,Sochi,Ukraine,1,0,1,2
+2014,Russia,Sochi,Slovakia,1,0,0,1
+2014,Russia,Sochi,Japan,1,4,3,8
+2014,Russia,Sochi,Finland,1,3,1,5
+2014,Russia,Sochi,Great Britain,1,1,3,5
+2014,Russia,Sochi,Kazakhstan,0,0,1,1
+2014,Russia,Sochi,Norway,11,5,10,26
+2014,Russia,Sochi,Russia,11,10,9,30
+2014,Russia,Sochi,Italy,0,2,6,8
+2014,Russia,Sochi,Australia,0,2,1,3
+2014,Russia,Sochi,Croatia,0,1,0,1
+2014,Russia,Sochi,Czech Republic,2,4,2,8
+2014,Russia,Sochi,Switzerland,7,2,2,11
+2014,Russia,Sochi,Belarus,5,0,1,6
+2014,Russia,Sochi,Slovenia,2,2,4,8
+2014,Russia,Sochi,United States,9,9,10,28
+2014,Russia,Sochi,Netherlands,8,7,9,24
+2014,Russia,Sochi,Germany,8,6,5,19
+2014,Russia,Sochi,South Korea,3,3,2,8
+2014,Russia,Sochi,Sweden,2,7,6,15
+2014,Russia,Sochi,Austria,4,8,5,17
+2014,Russia,Sochi,France,4,4,7,15
+2014,Russia,Sochi,Poland,4,1,1,6
+2014,Russia,Sochi,China,3,4,2,9
+2018,South Korea,Pyeongchang,Liechtenstein,0,0,1,1
+2018,South Korea,Pyeongchang,United States,9,8,6,23
+2018,South Korea,Pyeongchang,Latvia,0,0,1,1
+2018,South Korea,Pyeongchang,Japan,4,5,4,13
+2018,South Korea,Pyeongchang,Austria,5,3,6,14
+2018,South Korea,Pyeongchang,France,5,4,6,15
+2018,South Korea,Pyeongchang,Czech Republic,2,2,3,7
+2018,South Korea,Pyeongchang,Russia,2,6,9,17
+2018,South Korea,Pyeongchang,Italy,3,2,5,10
+2018,South Korea,Pyeongchang,Switzerland,5,6,4,15
+2018,South Korea,Pyeongchang,Germany,14,10,7,31
+2018,South Korea,Pyeongchang,Canada,11,8,10,29
+2018,South Korea,Pyeongchang,Netherlands,8,6,6,20
+2018,South Korea,Pyeongchang,South Korea,5,8,4,17
+2018,South Korea,Pyeongchang,Sweden,7,6,1,14
+2018,South Korea,Pyeongchang,Norway,14,14,11,39
+2018,South Korea,Pyeongchang,Belarus,2,1,0,3
+2018,South Korea,Pyeongchang,Belgium,0,1,0,1
+2018,South Korea,Pyeongchang,Slovenia,0,1,1,2
+2018,South Korea,Pyeongchang,Australia,0,2,1,3
+2018,South Korea,Pyeongchang,Kazakhstan,0,0,1,1
+2018,South Korea,Pyeongchang,Spain,0,0,2,2
+2018,South Korea,Pyeongchang,New Zealand,0,0,2,2
+2018,South Korea,Pyeongchang,Ukraine,1,0,0,1
+2018,South Korea,Pyeongchang,Finland,1,1,4,6
+2018,South Korea,Pyeongchang,Slovakia,1,2,0,3
+2018,South Korea,Pyeongchang,China,1,6,2,9
+2018,South Korea,Pyeongchang,Hungary,1,0,0,1
+2018,South Korea,Pyeongchang,Poland,1,0,1,2
+2018,South Korea,Pyeongchang,Great Britain,1,0,4,5
